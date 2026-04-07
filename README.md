@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Gayathri Kaushalya Dunuthilaka</h1>
-<h3 align="center">A passionate fullstack developer from Sri Lanka.</h3>
+<h3 align="center">A passionate Software Quality Assurance Engineer from Sri Lanka.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gayathri-dunuthilaka&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri-dunuthilaka" /> </p>
 <br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying on **Information Technology, University Of Moratuwa**
+- 🔭 I’m  recently completed my role as a  **Trainee QA Engineer at LiveRoom Technologies**
 
-- 🌱 I’m currently learning  **React, Nodejs**
+- 🌱 I’m currently learning  **Automation, Manual Testing**
 
 - 👨‍💻 All of my projects are available at [https://gayathri-dunuthilaka.netlify.app/](https://gayathri-dunuthilaka.netlify.app/)
 
-- 💬 Ask me about **Laravel, HTML, CSS, Java, JavaScript**
+- 💬 Ask me about **Java, JavaScript, Playwright, Selenium**
 
 - 📫 How to reach me **dunuthilakagayathri@gmail.com**
 
